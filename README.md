@@ -40,18 +40,30 @@ flutter run
 ```
 ## 📸 Screenshots
 
-1. ![Landing Page](math_wake/assets/images/Landing_Page.jpg) – Home screen of the app.  
-2. ![Alarm List Page](math_wake/assets/images/Alarm_List_Page.jpg) – Displays all active alarms.  
-3. ![Set Alarm Page](math_wake/assets/images/SetAlarm_Page.jpg) – Allows users to set a new alarm.  
-4. ![Select Time Page](math_wake/assets/images/Select_Time_Page.jpg) – Time selection screen.  
-5. ![Select Date Page](math_wake/assets/images/Select_Date_Page.jpg) – Date selection screen.  
-6. ![Notification Displaying](math_wake/assets/images/Notification_Displayed.jpg) – Shows how the notification appears.  
-7. ![Alarm Landing Page](math_wake/assets/images/Alarm_Landing_Page.jpg) – Opens when clicking the alarm notification.  
-8. ![Speech Recognition Page](math_wake/assets/images/Speechrecognition_Page.jpg) – Voice input for alarm dismissal.  
-9. ![Settings Page](math_wake/assets/images/Settings_Page.jpg) – Customization options.  
-10. ![Correct Answer Page](math_wake/assets/images/Correct_Answer_Page.jpg) – Shown when the answer is correct.  
-11. ![Wrong Answer Page](math_wake/assets/images/Wrong_Answer_Page.jpg) – Shown when the answer is incorrect.
-12. ![About App Page](math_wake/assets/images/About_Phone_Page.jpg) – Displays app details.  
+### Home & Alarm Setup Pages
+<div align="center">
+  <img src="math_wake/assets/images/Landing_Page.jpg" alt="Landing Page" width="150">
+  <img src="math_wake/assets/images/Alarm_List_Page.jpg" alt="Alarm List Page" width="150">
+  <img src="math_wake/assets/images/SetAlarm_Page.jpg" alt="Set Alarm Page" width="150">
+  <img src="math_wake/assets/images/Select_Time_Page.jpg" alt="Select Time Page" width="150">
+  <img src="math_wake/assets/images/Select_Date_Page.jpg" alt="Select Date Page" width="150">
+</div>
+
+### Notification & Alarm Interaction Pages
+<div align="center">
+  <img src="math_wake/assets/images/Notification_Displayed.jpg" alt="Notification Displaying" width="150">
+  <img src="math_wake/assets/images/Alarm_Landing_Page.jpg" alt="Alarm Landing Page" width="150">
+  <img src="math_wake/assets/images/Speechrecognition_Page.jpg" alt="Speech Recognition Page" width="150">
+  <img src="math_wake/assets/images/About_Phone_Page.jpg" alt="About App Page" width="150">
+  <img src="math_wake/assets/images/Settings_Page.jpg" alt="Settings Page" width="150">
+</div>
+
+### Answer Screens
+<div align="center">
+  <img src="math_wake/assets/images/Correct_Answer_Page.jpg" alt="Correct Answer Page" width="150">
+  <img src="math_wake/assets/images/Wrong_Answer_Page.jpg" alt="Wrong Answer Page" width="150">
+</div>
+
 
 ## 🌟 Contributing
 If you’d like to contribute to this project, feel free to fork the repository and submit a pull request. Contributions are always welcome!
