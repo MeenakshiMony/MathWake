@@ -40,29 +40,54 @@ flutter run
 ```
 ## 📸 Screenshots
 
-### Home & Alarm Setup Pages
-<div align="center">
-  <img src="math_wake/assets/images/Landing_Page.jpg" alt="Landing Page" width="150">
-  <img src="math_wake/assets/images/Alarm_List_Page.jpg" alt="Alarm List Page" width="150">
-  <img src="math_wake/assets/images/SetAlarm_Page.jpg" alt="Set Alarm Page" width="150">
-  <img src="math_wake/assets/images/Select_Time_Page.jpg" alt="Select Time Page" width="150">
-  <img src="math_wake/assets/images/Select_Date_Page.jpg" alt="Select Date Page" width="150">
-</div>
+## 📸 Screenshots
 
-### Notification & Alarm Interaction Pages
-<div align="center">
-  <img src="math_wake/assets/images/Notification_Displayed.jpg" alt="Notification Displaying" width="150">
-  <img src="math_wake/assets/images/Alarm_Landing_Page.jpg" alt="Alarm Landing Page" width="150">
-  <img src="math_wake/assets/images/Speechrecognition_Page.jpg" alt="Speech Recognition Page" width="150">
-  <img src="math_wake/assets/images/About_Phone_Page.jpg" alt="About App Page" width="150">
-  <img src="math_wake/assets/images/Settings_Page.jpg" alt="Settings Page" width="150">
-</div>
+### Landing Page, Alarm List Page, and Set Alarm Page
+![Landing Page](math_wake/assets/images/Landing_Page.jpg)  
+**Landing Page** – Home screen of the app.  
 
-### Answer Screens
-<div align="center">
-  <img src="math_wake/assets/images/Correct_Answer_Page.jpg" alt="Correct Answer Page" width="150">
-  <img src="math_wake/assets/images/Wrong_Answer_Page.jpg" alt="Wrong Answer Page" width="150">
-</div>
+![Alarm List Page](math_wake/assets/images/Alarm_List_Page.jpg)  
+**Alarm List Page** – Displays all active alarms.  
+
+![Set Alarm Page](math_wake/assets/images/SetAlarm_Page.jpg)  
+**Set Alarm Page** – Allows users to set a new alarm.  
+
+---
+
+### Select Time Page, Select Date Page, and Notification Displaying
+![Select Time Page](math_wake/assets/images/Select_Time_Page.jpg)  
+**Select Time Page** – Time selection screen.  
+
+![Select Date Page](math_wake/assets/images/Select_Date_Page.jpg)  
+**Select Date Page** – Date selection screen.  
+
+![Notification Displaying](math_wake/assets/images/Notification_Displayed.jpg)  
+**Notification Displaying** – Shows how the notification appears.  
+
+---
+
+### Alarm Landing Page, Speech Recognition Page, and About App Page
+![Alarm Landing Page](math_wake/assets/images/Alarm_Landing_Page.jpg)  
+**Alarm Landing Page** – Opens when clicking the alarm notification.  
+
+![Speech Recognition Page](math_wake/assets/images/Speechrecognition_Page.jpg)  
+**Speech Recognition Page** – Voice input for alarm dismissal.  
+
+![About App Page](math_wake/assets/images/About_Phone_Page.jpg)  
+**About App Page** – Displays app details.  
+
+---
+
+### Settings Page, Correct Answer Page, and Wrong Answer Page
+![Settings Page](math_wake/assets/images/Settings_Page.jpg)  
+**Settings Page** – Customization options.  
+
+![Correct Answer Page](math_wake/assets/images/Correct_Answer.jpg)  
+**Correct Answer Page** – Shown when the answer is correct.  
+
+![Wrong Answer Page](math_wake/assets/images/Wrong_Answer.jpg)  
+**Wrong Answer Page** – Shown when the answer is incorrect.  
+
 
 
 ## 🌟 Contributing
